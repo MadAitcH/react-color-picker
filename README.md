@@ -33,7 +33,7 @@ for functional compnents at other branches.
 Download the zip file or Clone this repo:
 
 ```bash
-git clone https://github.com/MadAitcH/react-color-picker.git
+git clone https://github.com/exvimmer/react-color-picker.git
 ```
 
 Install the dependencies:
